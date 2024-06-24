@@ -3,6 +3,7 @@
 #include<unistd.h>
 
 #define MAX_SIZE 1000
+
 /*0. Print out the list;
 1. Find maximum marks and print to screen;
 2. Find marks that are greater than or equal to average of all the marks;
